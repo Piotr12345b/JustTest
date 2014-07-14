@@ -24,3 +24,7 @@ commit się udał.
 
 poznałem usuwanie i zmianę nazwy plików 
 
+dowiedziałem się jak dostać informacje o commitach
+
+przetestuję zarządzanie poczekalnia
+
