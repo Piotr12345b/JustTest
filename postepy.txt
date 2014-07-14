@@ -22,3 +22,5 @@ dobra to był mój błąd ... zamiast user wklepałem ser ...
 
 commit się udał.
 
+poznałem usuwanie i zmianę nazwy plików 
+
