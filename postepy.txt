@@ -3,3 +3,22 @@ Stworzyłem właśnie swoje pierwsze repozytorium, rozpocząłem śledzenie plik
 Teraz zedytuję plik postępy i zobaczę co pokaże mi polecenie git status
 
 Świetnie program poinformował mnie, że zmodyfikowałem ten plik, teraz spróbuję dodać tą zmianę 
+
+wszystko poszło prawidłowo
+
+Podręcznik doskonale prowadzi mnie krok po kroku, teraz zapoznam się z ignorowaniem plików
+
+utworzyłem ukryty plik .gitignore
+
+dodałem pierwsze warunki ignorowania, wyrażenia regularne to świetne ułatwienie, praca w nowym środowisku jest całkiem komfortowa.
+
+przyszedł czas na git diff
+
+nosz kurde program pokazał zmiany w pliku ale jak z Tąd wrócić do terminala ? dobra już mam wystarczy wcisnąć 'q' ;)
+
+Dobra... pojawił się problem przy pierwszym commicie ... Git pyta się kim jestem ale przecież zrobiłęm config ...
+
+dobra to był mój błąd ... zamiast user wklepałem ser ... 
+
+commit się udał.
+
