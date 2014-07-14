@@ -1,0 +1,5 @@
+Stworzyłem właśnie swoje pierwsze repozytorium, rozpocząłem śledzenie plików :ReadMe.txt oraz postepy.txt
+
+Teraz zedytuję plik postępy i zobaczę co pokaże mi polecenie git status
+
+Świetnie program poinformował mnie, że zmodyfikowałem ten plik, teraz spróbuję dodać tą zmianę 
