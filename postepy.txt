@@ -21,6 +21,15 @@ Dobra... pojawił się problem przy pierwszym commicie ... Git pyta się kim jes
 dobra to był mój błąd ... zamiast user wklepałem ser ... 
 
 commit się udał.
+/*
+wstawka dla sprawdzenia zachowania przy łączeniu gałęzi
+
+;_______________________________________;
+
+;---------------------------------------;
+
+koniec wstawki
+*/
 
 poznałem usuwanie i zmianę nazwy plików 
 
