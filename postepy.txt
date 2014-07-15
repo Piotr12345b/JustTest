@@ -26,6 +26,12 @@ poznałem usuwanie i zmianę nazwy plików
 
 dowiedziałem się jak dostać informacje o commitach
 
+/* wstawka do sprawdzenia pracy z łączeniem gałezi
+
+:D:D:D:D:D:DD:D::D:D:D:D:DD::DD
+
+koniec */
+
 przetestuję zarządzanie poczekalnia
 
 otagowałem sobie conieco, teraz dodałęm alias unstage dla reset HEAD
