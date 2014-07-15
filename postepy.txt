@@ -28,3 +28,7 @@ dowiedziałem się jak dostać informacje o commitach
 
 przetestuję zarządzanie poczekalnia
 
+otagowałem sobie conieco, teraz dodałęm alias unstage dla reset HEAD
+
+koniec rozdziału drugiego. ;)
+
