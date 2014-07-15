@@ -32,3 +32,5 @@ otagowałem sobie conieco, teraz dodałęm alias unstage dla reset HEAD
 
 koniec rozdziału drugiego. ;)
 
+Właśnie stworzyłem swoją pierwszą gałąź ;D
+
