@@ -1,0 +1,4 @@
+hmm pierwsze użycie vim'a, kurde ale gdzie ten generator loswy?
+
+dziwnie przebiega obsługa tego programu bez ściągawki w postaci skrótów ;(
+

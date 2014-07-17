@@ -49,3 +49,5 @@ koniec rozdziału drugiego. ;)
 
 Właśnie stworzyłem swoją pierwszą gałąź ;D
 
+zakończyłem zabawę z gałęziami (tworzenie łączenie usuwanie)
+
